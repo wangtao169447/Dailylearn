@@ -1,2 +1,4 @@
-this is a file.
-contains tow rows!
+contains tow rows! so what to do next?
+add a new row.
+hello.
+accord o can append.
